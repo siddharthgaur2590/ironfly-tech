@@ -1,3 +1,3 @@
-# ironfly-tech
-Repository created to commit code for ironfly technologies.
-Online test conducted on 15-Apr-2020 from 7:00-8:00 PM HKT onwards.
+# Cognizant
+Repository created to commit code for cognizant technologies.
+Proficiency test conducted on 21-05-2020.
